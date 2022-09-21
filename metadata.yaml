@@ -1,0 +1,32 @@
+_repo: Gereformeerde-dogmatiek-Vierde-deel_69005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bavinck, Herman
+    alias: Bavinck, H. (Herman)
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '41605'
+    url: http://www.gutenberg.org/2009/agents/41605
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herman_Bavinck
+    - https://nl.wikipedia.org/wiki/Herman_Bavinck
+description: ''
+gutenberg_issued: '2022-09-17'
+identifiers:
+  gutenberg: '69005'
+language: nl
+pgterms:marc904: https://dbnl.org/tekst/bavi002gere04_01/
+pgterms:marc905: 20220615143044bavinck
+pgterms:marc906: '1901'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Netherlands :J. H. Bos,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gereformeerde dogmatiek, Vierde deel
+url: http://www.gutenberg.org/ebooks/69005
